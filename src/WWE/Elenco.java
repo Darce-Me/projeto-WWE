@@ -18,6 +18,8 @@ public class Elenco {
 
         lutador2.apresentar();
         lutador2.status();
+        
+        //Objeto Luta
 
         Luta luta1 = new Luta();
 
